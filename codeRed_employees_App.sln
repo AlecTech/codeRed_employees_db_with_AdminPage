@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codeRed_employees_App", "codeRed_employees_App\codeRed_employees_App.csproj", "{9B9FA7D9-DA07-4F55-89B3-9C04258AAC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B9FA7D9-DA07-4F55-89B3-9C04258AAC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B9FA7D9-DA07-4F55-89B3-9C04258AAC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B9FA7D9-DA07-4F55-89B3-9C04258AAC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B9FA7D9-DA07-4F55-89B3-9C04258AAC60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BC2F39A-50A6-4A38-9E67-C23697A1A01D}
+	EndGlobalSection
+EndGlobal
